@@ -15,7 +15,7 @@ class MyTest extends TestCase{
 
     /** @test */
     public function second_test(){
-        dump(Auth::sayhello());
+        dump(Main::sayhello());
         $this->assertTrue(true);
     }
 }
