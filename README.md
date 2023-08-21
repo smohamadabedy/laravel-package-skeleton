@@ -56,7 +56,7 @@ or
 ```
 
 # add package to your project
-to test in dummy laravel project add following in your laravel composer.json
+to test in a dummy laravel project add following in your laravel composer.json
 ```
 "repositories": {
         "dev-package":
